@@ -38,3 +38,4 @@ jobs:
           name: wifi-inspector-app
           path: bin/*.apk
           retention-days: 30
+          
